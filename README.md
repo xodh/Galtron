@@ -1,7 +1,7 @@
 # Learning OSS development through GitHub
 
 | Participant   | Role       | ETC |
-|---------------+------------+-----+
+|---------------|------------|-----|
 | Jeongkyu Shin | Instructor |     |
 
 # Galtron

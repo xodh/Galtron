@@ -3,6 +3,7 @@
 | Participant   | Role       | ETC |
 |---------------|------------|-----|
 | Jeongkyu Shin | Instructor |     |
+| Hansae Ju     | Student    |     |
 | Jaewoo Yang   | Student    |     |
 | JK            | Student    |     |
 

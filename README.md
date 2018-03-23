@@ -7,6 +7,7 @@
 | Jaehun Kim.   | student.   |     |
 | Hansae Ju     | Student    |     |
 | Jaewoo Yang   | Student    |     |
+| ChaeHyun Baek | Student    |     |
 | JK            | Student    |     |
 | Yunjea Nam    | Student    |     |
 | Cho young il  | Student    |     |

@@ -14,6 +14,7 @@
 | Yejun Kim     | Student    |     |
 | Yunjea Nam    | Student    |     |
 | Cho young il  | Student    |     |
+| JaeHun Lee    | Student    |     |
 
 
 # Galtron

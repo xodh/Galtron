@@ -9,6 +9,7 @@
 | Jaewoo Yang   | Student    |     |
 | ChaeHyun Baek | Student    |     |
 | JK            | Student    |     |
+| Moon ki hun   | Student    |     |
 | Seungchan Yu  | Student    |     |
 | JK2           | Student    |     |
 | Yushin Kim    | Student    |     |

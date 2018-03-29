@@ -12,6 +12,7 @@
 | KeonWoong Noh | Student    |     |
 | ChaeHyun Baek | Student    |     |
 | JK            | Student    |     |
+| Hayeong Lee   | Student    |     |
 | YoungHoon Kwon| Student    |     |
 | Haeun Choi    | Student    |     |
 | Moon ki hun   | Student    |     |

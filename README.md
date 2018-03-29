@@ -28,7 +28,7 @@
 | Minjun Kim    | Student    |     |
 | JaeHun Lee    | Student    |     |
 | Taewan Park   | Student    |     |
-
+| Sungho Yun    | Student    |     |
 
 # Galtron
 A simple 2D shooter made with pygame, written in python...

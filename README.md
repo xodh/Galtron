@@ -9,6 +9,8 @@
 | Jaewoo Yang   | Student    |     |
 | ChaeHyun Baek | Student    |     |
 | JK            | Student    |     |
+| JK2           | Student    |     |
+| Yushin Kim    | Student    |     |
 | Yejun Kim     | Student    |     |
 | Yunjea Nam    | Student    |     |
 | Cho young il  | Student    |     |

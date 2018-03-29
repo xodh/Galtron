@@ -3,6 +3,7 @@
 | Participant   | Role       | ETC |
 |---------------|------------|-----|
 | Jeongkyu Shin | Instructor |     |
+| Jeshin Lee    | Student    |     |
 | Hoesung  Jung | Student^^7 | Nerd|
 | Hyunjun Lee   | Student    |     |
 | Minseok  Kang | Student    |     |

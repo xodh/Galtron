@@ -4,6 +4,33 @@
 |---------------|------------|-----|
 | Jeongkyu Shin | Instructor |     |
 | Kim tae O     | Student    |     |
+| Jeshin Lee    | Student    |     |
+| Hoesung  Jung | Student^^7 | Nerd|
+| Hyunjun Lee   | Student    |     |
+| Minseok  Kang | Student    |     |
+| Jaehun Kim.   | student.   |     |
+| Hansae Ju     | Student    |     |
+| Jaewoo Yang   | Student    |     |
+| TaeWoong Kong | Student    |     |
+| KeonWoong Noh | Student    |     |
+| ChaeHyun Baek | Student    |     |
+| JK            | Student    |     |
+| GookGon Lee   | Student    |     |
+| Hyobin Lee    | Student    |     |
+| Hayeong Lee   | Student    |     |
+| YoungHoon Kwon| Student    |     |
+| Haeun Choi    | Student    |     |
+| Moon ki hun   | Student    |     |
+| Seungchan Yu  | Student    |     |
+| JK2           | Student    |     |
+| Yushin Kim    | Student    |     |
+| Yejun Kim     | Student    |     |
+| Yunjea Nam    | Student    |     |
+| Cho young il  | Student    |     |
+| Minjun Kim    | Student    |     |
+| JaeHun Lee    | Student    |     |
+| Taewan Park   | Student    |     |
+| Sungho Yun    | Student    |     |
 
 
 # Galtron
@@ -17,3 +44,4 @@ To run the game:
 	-Enter python main.py
 
 By Matt Boan 2017
+
